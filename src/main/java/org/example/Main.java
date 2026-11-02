@@ -8,7 +8,7 @@ public class Main {
 
         System.out.print("Enter a number: ");
         int n = sc.nextInt();
-
+	// adding Comment Line
         boolean prime = n > 1;
 
         for (int i = 2; i * i <= n; i++) {
